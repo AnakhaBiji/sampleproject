@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29214296-0a26-4bb8-b733-10d4771754d7" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/bin/classdemo.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.classdemo.dart">
+  <component name="RunManager" selected="Dart Command Line App.samsung.dart">
     <configuration name="classdemo.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/classdemo.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -57,13 +56,13 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="sample.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/sample.dart" />
+    <configuration name="sampleproject.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/sampleproject.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="sampleproject.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <option name="filePath" value="$PROJECT_DIR$/bin/sampleproject.dart" />
+    <configuration name="samsung.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/samsung.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.samsung.dart" />
         <item itemvalue="Dart Command Line App.classdemo.dart" />
         <item itemvalue="Dart Command Line App.myphone.dart" />
         <item itemvalue="Dart Command Line App.variables.dart" />
         <item itemvalue="Dart Command Line App.message.dart" />
-        <item itemvalue="Dart Command Line App.sample.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669016914241</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1669039166218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669039166218</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1669040435066</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669040435066</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
