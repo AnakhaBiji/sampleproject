@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29214296-0a26-4bb8-b733-10d4771754d7" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/bin/arithmetic operation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/assignment operator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/bitwiseoperator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/enum.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/final and const.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/logicaloperator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/print 12344321.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/relationaloperator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/typetest.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/unaryoperator.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,19 +50,24 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.samsung.dart">
-    <configuration name="classdemo.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/classdemo.dart" />
+  <component name="RunManager" selected="Dart Command Line App.classwithlocalvariable.dart">
+    <configuration name="bitwiseoperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/bitwiseoperator.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="message.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/message.dart" />
+    <configuration name="classwithlocalvariable.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/classwithlocalvariable.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="myphone.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/myphone.dart" />
+    <configuration name="logicaloperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/logicaloperator.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="relationaloperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/relationaloperator.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -61,13 +76,8 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="samsung.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/samsung.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="variables.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/variables.dart" />
+    <configuration name="typetest.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/typetest.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -78,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.samsung.dart" />
-        <item itemvalue="Dart Command Line App.classdemo.dart" />
-        <item itemvalue="Dart Command Line App.myphone.dart" />
-        <item itemvalue="Dart Command Line App.variables.dart" />
-        <item itemvalue="Dart Command Line App.message.dart" />
+        <item itemvalue="Dart Command Line App.classwithlocalvariable.dart" />
+        <item itemvalue="Dart Command Line App.bitwiseoperator.dart" />
+        <item itemvalue="Dart Command Line App.logicaloperator.dart" />
+        <item itemvalue="Dart Command Line App.relationaloperator.dart" />
+        <item itemvalue="Dart Command Line App.typetest.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669040435066</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1669042601833</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669042601833</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,5 +164,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/bin/classwithlocalvariable.dart</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
