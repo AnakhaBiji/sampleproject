@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29214296-0a26-4bb8-b733-10d4771754d7" name="Changes" comment="commit" />
+    <list default="true" id="29214296-0a26-4bb8-b733-10d4771754d7" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/bin/checking conditional operator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/conditional operator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/user input.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +43,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.classwithlocalvariable.dart">
+  <component name="RunManager" selected="Dart Command Line App.user input.dart">
     <configuration name="bitwiseoperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/bitwiseoperator.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -49,13 +54,13 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="logicaloperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/logicaloperator.dart" />
+    <configuration name="conditional operator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/conditional operator.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="relationaloperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/relationaloperator.dart" />
+    <configuration name="logicaloperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/logicaloperator.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -64,8 +69,8 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="typetest.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/typetest.dart" />
+    <configuration name="user input.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/user input.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -76,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.user input.dart" />
+        <item itemvalue="Dart Command Line App.conditional operator.dart" />
         <item itemvalue="Dart Command Line App.classwithlocalvariable.dart" />
         <item itemvalue="Dart Command Line App.bitwiseoperator.dart" />
         <item itemvalue="Dart Command Line App.logicaloperator.dart" />
-        <item itemvalue="Dart Command Line App.relationaloperator.dart" />
-        <item itemvalue="Dart Command Line App.typetest.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669262056485</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <created>1669262731497</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669262731497</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
