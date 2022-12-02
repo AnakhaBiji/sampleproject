@@ -6,15 +6,15 @@ void main()
     if(i%2==0)
       sum=sum+i;
   }
-  print('sum of even numbers=');
-  print(sum);
+  print('sum of even numbers=$sum');
+
 
   for(int i=1;i<=10;i++)
     {
       if(i%2!=0)
         odd=odd+i;
     }
-  print('sum of odd numbers=');
-  print(odd);
+  print('sum of odd numbers=$odd');
+
 
 }

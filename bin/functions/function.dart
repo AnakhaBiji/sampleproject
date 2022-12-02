@@ -55,7 +55,7 @@ void func6(int a,[String? b,int? c]){
   print("a=$a,b=$b,c=$c");
 }
 
-///lamda or arrow function== accepts single sttements only
+///lamda or arrow function== accepts single statements only
 
 void func7()=>print('lamda function');
 

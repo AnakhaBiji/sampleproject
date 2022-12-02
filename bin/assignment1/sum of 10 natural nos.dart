@@ -4,5 +4,5 @@ void main()
   for(int i=1;i<=10;i++) {
     sum = sum + i;
   }
-  print(sum);
+  print('sum of 10 natural numbers $sum');
 }
