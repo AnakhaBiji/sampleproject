@@ -5,10 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29214296-0a26-4bb8-b733-10d4771754d7" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/bin/checking conditional operator.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/conditional operator.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/user input.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/abstract class.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/abstraction using interface.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/bank details using hierarchy.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/custom exception.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/email and pass custom exception.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/exception demo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/family using multiple inheritance.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/get  and set.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/get set implementation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/luminar using heirarchy.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mixins.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/overriding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/resume preparation using multiple inheritance.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/super constructor.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/this with constructor.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/this.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/throw.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/this keyword.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/super keyword.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,24 +58,24 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.user input.dart">
-    <configuration name="bitwiseoperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/bitwiseoperator.dart" />
+  <component name="RunManager" selected="Dart Command Line App.email and pass custom exception.dart">
+    <configuration name="custom exception.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/custom exception.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="classwithlocalvariable.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/classwithlocalvariable.dart" />
+    <configuration name="email and pass custom exception.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/email and pass custom exception.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="conditional operator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/conditional operator.dart" />
+    <configuration name="family using multiple inheritance.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/family using multiple inheritance.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="logicaloperator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/logicaloperator.dart" />
+    <configuration name="resume preparation using multiple inheritance.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/resume preparation using multiple inheritance.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -69,8 +84,8 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="user input.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/user input.dart" />
+    <configuration name="throw.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/throw.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -81,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.user input.dart" />
-        <item itemvalue="Dart Command Line App.conditional operator.dart" />
-        <item itemvalue="Dart Command Line App.classwithlocalvariable.dart" />
-        <item itemvalue="Dart Command Line App.bitwiseoperator.dart" />
-        <item itemvalue="Dart Command Line App.logicaloperator.dart" />
+        <item itemvalue="Dart Command Line App.email and pass custom exception.dart" />
+        <item itemvalue="Dart Command Line App.custom exception.dart" />
+        <item itemvalue="Dart Command Line App.resume preparation using multiple inheritance.dart" />
+        <item itemvalue="Dart Command Line App.family using multiple inheritance.dart" />
+        <item itemvalue="Dart Command Line App.throw.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +176,98 @@
       <option name="project" value="LOCAL" />
       <updated>1669262731497</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <created>1669267949707</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669267949707</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <created>1669656345355</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669656345355</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit">
+      <created>1669664419161</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669664419161</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit">
+      <created>1669699972752</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669699972752</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit">
+      <created>1669733196744</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669733196744</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit">
+      <created>1669738878263</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669738878263</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit">
+      <created>1669828331881</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669828331881</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit">
+      <created>1669873312634</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669873312634</updated>
+    </task>
+    <task id="LOCAL-00018" summary="commit">
+      <created>1669906508594</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669906508594</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit">
+      <created>1669913721744</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669913721744</updated>
+    </task>
+    <task id="LOCAL-00020" summary="commit">
+      <created>1669959809000</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669959809000</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commit">
+      <created>1670163214360</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670163214360</updated>
+    </task>
+    <task id="LOCAL-00022" summary="commit">
+      <created>1670348809094</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670348809094</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +292,11 @@
           <url>file://$PROJECT_DIR$/bin/classwithlocalvariable.dart</url>
           <line>40</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/bin/exception demo.dart</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
